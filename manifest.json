@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "git-albertomarin",
+  "repo": "winpath",
+  "versions": [
+    {
+      "commit": "1c717d83aeee942d7b7e842ff2bfe61053ac3fee",
+      "parsed_at": "2026-04-13T04:31:35.872274+00:00",
+      "tag": "202002.1b0",
+      "filetree": "filetree/1c717d83aeee942d7b7e842ff2bfe61053ac3fee.nq.gz",
+      "blobs": [
+        "blob/e3cae2e4093bcc3949f8a9e2dd7397a4f85393eb.nq.gz",
+        "blob/25dfea31be5e406243f90aa645267fb3f8dfea39.nq.gz",
+        "blob/ac7a462beaeefa4490fd7c4234a702b161b1953c.nq.gz",
+        "blob/53da45b18ea6a84c8c0908f7c18eb888434abc65.nq.gz",
+        "blob/8f739d6327fe5ac9125c7c0396d97528ff9b521a.nq.gz",
+        "blob/de69a78de29c086f26efaf664e20add50947266b.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/45998b6ccc78286bac874552c8bd69a6b111bbb8.nq.gz",
+        "blob/2f5304a32c021463ea5d85ee70d8e356acf02e3e.nq.gz",
+        "blob/3f51a41cbae88bd49b70db2ee2f65a1b8bb129e4.nq.gz",
+        "blob/1bf0c22d623a9f46b7ce0d4da113c7df47224bbc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
